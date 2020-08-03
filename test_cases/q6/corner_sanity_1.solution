@@ -3,5 +3,5 @@
 # true cost of the optimal path from that state to a goal.
 cost: "8"
 path: """
-North South South East East East North North
+North South South East East East North North 
 """

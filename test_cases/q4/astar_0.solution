@@ -5,3 +5,4 @@ solution: "Right Down Down"
 expanded_states: "A B D C G"
 rev_solution: "Right Down Down"
 rev_expanded_states: "A B D C G"
+ 
